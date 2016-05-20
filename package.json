@@ -1,5 +1,5 @@
 {
-  "name": "qr-image",
+  "name": "@pgaubatz/qr-image",
   "version": "3.1.0",
   "description": "QR Code generator (png, svg, pdf, eps)",
   "homepage": "https://github.com/alexeyten/qr-image",
